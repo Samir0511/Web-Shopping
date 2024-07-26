@@ -1,0 +1,180 @@
+			.mainblock
+			{
+				width:1320px;
+				height:100%;
+			}
+			.slider
+			{
+					box-shadow:0px 0px 10px 1px #CCCCCC;
+					height:350px;
+					margin-top:20px;
+					
+			}
+			#logout:hover
+			{
+				color:#FFF;
+			}
+			#sliderimg
+			{
+				margin-top:25px;
+			}
+			.nav
+			{
+				padding-left:185px;
+				width:auto;
+			}
+			
+			
+			.box
+			{
+				margin-left:20px;
+				margin-bottom:20px;
+				margin-top:20px;
+				float:right;
+				box-shadow:0px 0px 10px 1px #CCCCCC;
+				height:380px;
+				width:240px;
+			}
+			
+			#img
+			{
+				
+				height:250px;
+				width:130px;
+				margin-top:10px;
+				box-shadow:0px 0px 10px  black;
+				
+			}
+			
+			.but
+			{
+				box-shadow:0px 0px 5px 1px black ;
+				color:black;
+				display:block;
+				padding:2px 0px;
+				margin:5px 0px;
+				width:100px;
+				margin-left:25px;
+				text-align:center;
+				border-radius:10px;
+				font-size:12px;
+				text-transform:uppercase;
+				transition:0.3s linear;
+				margin-top:-1185px;
+				
+				
+			}
+			.but:hover
+			{
+				background-color:#333;
+				color:white;	
+			}
+			
+			.footer
+			{
+				background-color:#000000;
+				width:1200px;
+				height:100px;
+				margin-top:2px;
+				margin-left:40px;
+			}
+			#footer-text
+			{
+				font-family:Arial, Helvetica, sans-serif;
+				color:#333;
+				padding:30px 50px;
+				font-size:20px;
+			
+			}
+			#botam-text
+			{
+				font-family:Verdana, Geneva, sans-serif;
+				color:#fff;
+				
+				
+			
+			}
+			.footer-back
+			{
+			
+				margin-top:10%;
+				height:400px;
+				background-color:#E0E0E0;
+				width:1200px;
+				margin-left:50px;
+				
+			}
+
+			
+			.backmenu
+			{
+				height:100px;
+				width:1320px;	
+			}
+			
+			
+			
+			#fontface
+			{
+				font-family:Verdana, Geneva, sans-serif;
+				font-size:20PX;
+			}
+			#login
+			{
+				color:#FFF;
+				font-size:22px;
+				margin-top:-605px;
+				margin-left:950px;
+			}
+			.imgbox
+			{
+			
+				max-height:200px;
+				width:55px;
+				position:relative;
+				font-size:20px;
+				padding:100px 100px ;
+				float:right;
+				padding-top:20px;
+				box-shadow:1px 0px 1px 0px #000000;
+		
+			}
+			
+			.menu
+			{
+				box-shadow:1px 2px #999999;	
+				width:95%;
+				margin-left:5px;
+				color:#930;
+				margin-top:5px;
+				padding:5px 0px;
+								
+			}
+			.sub
+		{
+			background-color:#333;
+			width:100%;
+			
+			font-size:18px;
+			padding:10px;
+			color:#FFF;
+			border:hidden;
+			border-color:;
+			border-radius:10px;
+			font-family:Georgia, "Times New Roman", Times, serif;
+			text-transform:uppercase;
+			margin-top:30px;
+								
+		}
+		.sub:hover
+		{
+			background-color:#CCC;		
+			color:black;
+		}
+		.futback {
+    box-shadow: 2px 2px 5px 2px #666666;
+    height: 400px;
+    width: auto;
+    margin: 0.5%;
+}
+	
